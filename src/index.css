@@ -1,0 +1,11 @@
+@import "@fontsource/spectral-sc/700";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .font-border {
+    -webkit-text-stroke: 0.5px black;
+  }
+}

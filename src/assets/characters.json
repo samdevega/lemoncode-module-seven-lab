@@ -1,0 +1,116 @@
+[
+  {
+    "avatar": "/johnny_cage.gif",
+    "description": "Martial artist and actor who enters the Shaolin Tournament to prove that he does not rely on special effects in his films.",
+    "moves": {  
+      "finishing": [
+        { "buttons": "Forward, Forward, Forward, High Punch (close)", "name": "Fatality" }
+      ],
+      "special": [
+        { "buttons": "Block + Low Punch", "name": "Ball Beaker" },
+        { "buttons": "Back, Forward, Low Punch", "name": "Green Bolt" },
+        { "buttons": "Back, Forward, Low Kick", "name": "Shadow Kick" }
+      ]
+    },
+    "name": "Johnny Cage",
+    "slug": "johnny-cage",
+    "sprite": "/johnny_cage.png"
+  },
+  {
+    "avatar": "/kano.gif",
+    "description": "Leader of the Black Dragon criminal empire, having been deported from both Japan and the United States, and becoming a wanted man in thirty-five other countries.",
+    "moves": {
+      "finishing": [
+        { "buttons": "Back, Back, Back, Low Punch (close)", "name": "Fatality" }
+      ],
+      "special": [
+        { "buttons": "Block (hold) Back, Forward", "name": "Knife Throw" },
+        { "buttons": "Block (hold) Forward, Down, Back, Up, Forward", "name": "Spin Attack" }
+      ]
+    },
+    "name": "Kano",
+    "slug": "kano",
+    "sprite": "/kano.png"
+  },
+  {
+    "avatar": "/sub-zero.gif",
+    "description": "Sent by the Chinese ninja clan Lin Kuei to kill the host Shang Tsung.",
+    "moves": {
+      "finishing": [
+        { "buttons": "Forward, Down, Forward, High Punch (close)", "name": "Fatality" }
+      ],
+      "special": [
+        { "buttons": "Down, Forward, Low Punch", "name": "Ice Freeze" },
+        { "buttons": "Back (hold) Low Kick + High Kick", "name": "Slide" }
+      ]
+    },
+    "name": "Sub-Zero",
+    "slug": "sub-zero",
+    "sprite": "/sub-zero.png"
+  },
+  {
+    "avatar": "/sonya_blade.gif",
+    "description": "United States Special Forces officer involved with the eponymous Mortal Kombat tournament through pursuit of her archenemy, the criminal leader Kano.",
+    "moves": {
+      "finishing": [
+        { "buttons": "Forward, Forward, Back, Back, Block", "name": "Fatality" }
+      ],
+      "special": [
+        { "buttons": "Down + Block + Low Punch + Low Kick", "name": "Leg Grab" },
+        { "buttons": "Forward, Back, High Punch", "name": "Square Flight" }
+      ]
+    },
+    "name": "Sonya Blade",
+    "slug": "sonya-blade",
+    "sprite": "/sonya_blade.png"
+  },
+  {
+    "avatar": "/raiden.gif",
+    "description": "God of thunder and protector of the Earth realm. He selects and trains warriors who defend the realm from various threats, while also participating directly in its defense.",
+    "moves": {
+      "finishing": [
+        { "buttons": "Forward, Back, Back, Back, High Punch (close)", "name": "Fatality" }
+      ],
+      "special": [
+        { "buttons": "Down, Up", "name": "Lightning" },
+        { "buttons": "Down, Forward, Low Punch", "name": "Teleport" },
+        { "buttons": "Back, Back, Forward", "name": "Torpedo" }
+      ]
+    },
+    "name": "Raiden",
+    "slug": "raiden",
+    "sprite": "/raiden.png"
+  },
+  {
+    "avatar": "/liu_kang.gif",
+    "description": "Chinese Shaolin kung fu monk who enters the tournament in order to protect Earth realm from being destroyed.",
+    "moves": {
+      "finishing": [
+        { "buttons": "Block (hold) Forward, Down, Back, Up, Forward", "name": "Fatality" }
+      ],
+      "special": [
+        { "buttons": "Forward, Forward, High Punch", "name": "Fireball" },
+        { "buttons": "Forward, Forward, High Kick", "name": "Flying Kick" }
+      ]
+    },
+    "name": "Liu Kang",
+    "slug": "liu-kang",
+    "sprite": "/liu_kang.png"
+  },
+  {
+    "avatar": "/scorpion.gif",
+    "description": "Undead specter. A warrior who was killed by Sub-Zero and allowed to return to the physical realms in order to have his revenge.",
+    "moves": {
+      "finishing": [
+        { "buttons": "Block (hold) Up, Up", "name": "Fatality" }
+      ],
+      "special": [
+        { "buttons": "Back, Back, Low Punch", "name": "Spear" },
+        { "buttons": "Down, Back, High Punch", "name": "Teleport" }
+      ]
+    },
+    "name": "Scorpion",
+    "slug": "scorpion",
+    "sprite": "/scorpion.png"
+  }
+]
