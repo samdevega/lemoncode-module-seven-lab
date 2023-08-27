@@ -14,7 +14,7 @@ function Character() {
 
   return (
     <div className="m-auto w-full lg:w-3/4 xl:w-2/3 2xl:w-1/2">
-      <LinkButton  href="/">
+      <LinkButton href="">
         Back
       </LinkButton>
       <CharacterCard {...character} />

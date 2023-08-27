@@ -4,18 +4,19 @@ import Home from './pages/Home'
 import NotFound from './pages/NotFound'
 
 function Router() {
+  const baseUrl = import.meta.env.BASE_URL
   const router = createBrowserRouter([
     {
       element: <Home />,
-      path: "/"
+      path: baseUrl
     },
     {
       element: <Character />,
-      path: "character/:slug",
+      path: `${baseUrl}character/:slug`
     },
     {
       element: <NotFound />,
-      path: "*"
+      path: `${baseUrl}*`
     }
   ])
 

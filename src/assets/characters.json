@@ -1,6 +1,6 @@
 [
   {
-    "avatar": "/johnny_cage.gif",
+    "avatar": "johnny_cage.gif",
     "description": "Martial artist and actor who enters the Shaolin Tournament to prove that he does not rely on special effects in his films.",
     "moves": {  
       "finishing": [
@@ -14,10 +14,10 @@
     },
     "name": "Johnny Cage",
     "slug": "johnny-cage",
-    "sprite": "/johnny_cage.png"
+    "sprite": "johnny_cage.png"
   },
   {
-    "avatar": "/kano.gif",
+    "avatar": "kano.gif",
     "description": "Leader of the Black Dragon criminal empire, having been deported from both Japan and the United States, and becoming a wanted man in thirty-five other countries.",
     "moves": {
       "finishing": [
@@ -30,10 +30,10 @@
     },
     "name": "Kano",
     "slug": "kano",
-    "sprite": "/kano.png"
+    "sprite": "kano.png"
   },
   {
-    "avatar": "/sub-zero.gif",
+    "avatar": "sub-zero.gif",
     "description": "Sent by the Chinese ninja clan Lin Kuei to kill the host Shang Tsung.",
     "moves": {
       "finishing": [
@@ -46,10 +46,10 @@
     },
     "name": "Sub-Zero",
     "slug": "sub-zero",
-    "sprite": "/sub-zero.png"
+    "sprite": "sub-zero.png"
   },
   {
-    "avatar": "/sonya_blade.gif",
+    "avatar": "sonya_blade.gif",
     "description": "United States Special Forces officer involved with the eponymous Mortal Kombat tournament through pursuit of her archenemy, the criminal leader Kano.",
     "moves": {
       "finishing": [
@@ -62,10 +62,10 @@
     },
     "name": "Sonya Blade",
     "slug": "sonya-blade",
-    "sprite": "/sonya_blade.png"
+    "sprite": "sonya_blade.png"
   },
   {
-    "avatar": "/raiden.gif",
+    "avatar": "raiden.gif",
     "description": "God of thunder and protector of the Earth realm. He selects and trains warriors who defend the realm from various threats, while also participating directly in its defense.",
     "moves": {
       "finishing": [
@@ -79,10 +79,10 @@
     },
     "name": "Raiden",
     "slug": "raiden",
-    "sprite": "/raiden.png"
+    "sprite": "raiden.png"
   },
   {
-    "avatar": "/liu_kang.gif",
+    "avatar": "liu_kang.gif",
     "description": "Chinese Shaolin kung fu monk who enters the tournament in order to protect Earth realm from being destroyed.",
     "moves": {
       "finishing": [
@@ -95,10 +95,10 @@
     },
     "name": "Liu Kang",
     "slug": "liu-kang",
-    "sprite": "/liu_kang.png"
+    "sprite": "liu_kang.png"
   },
   {
-    "avatar": "/scorpion.gif",
+    "avatar": "scorpion.gif",
     "description": "Undead specter. A warrior who was killed by Sub-Zero and allowed to return to the physical realms in order to have his revenge.",
     "moves": {
       "finishing": [
@@ -111,6 +111,6 @@
     },
     "name": "Scorpion",
     "slug": "scorpion",
-    "sprite": "/scorpion.png"
+    "sprite": "scorpion.png"
   }
 ]

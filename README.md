@@ -7,10 +7,14 @@
 * Desplegar automáticamente usando Docker en Heroku.
 
 ## Información del proyecto
-Iniciar el servidor de desarrollo:
+**Iniciar el servidor de desarrollo local:**
 
 ```bash
 npm run dev
 ```
 
 Abrir [http://localhost:5173](http://localhost:5173) con el navegador para ver el resultado.
+
+**Proyecto desplegado en Github Pages:**  
+
+[https://samdevega.github.io/lemoncode-module-seven-lab/](https://samdevega.github.io/lemoncode-module-seven-lab/)

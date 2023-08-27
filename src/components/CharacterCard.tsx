@@ -1,13 +1,14 @@
+import Image from "./Image"
 import MoveList from "./MoveList"
 import { MoveItemProps } from "./MoveItem"
 
 interface CharacterCardProps {
-  description: string,
+  description: string
   moves: {
-    finishing: MoveItemProps[],
+    finishing: MoveItemProps[]
     special: MoveItemProps[]
-  },
-  name: string,
+  }
+  name: string
   sprite: string
 }
 
@@ -18,7 +19,7 @@ export default function CharacterCard(character: CharacterCardProps) {
     <div className="border-4 bg-white bg-opacity-30 mt-12 p-8">
       <div className="flex flex-col md:flex-row gap-8">
         <div className="md:w-2/5 w-full">
-          <img
+          <Image
             alt={name}
             className="border-4 bg-black bg-opacity-70 h-40 m-auto object-contain w-full"
             height={0}

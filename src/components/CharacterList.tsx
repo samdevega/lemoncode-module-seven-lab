@@ -1,9 +1,9 @@
-import { Link } from "react-router-dom"
+import Link from "./Link"
 import CharacterItem from "./CharacterItem"
 
 interface Character {
-  avatar: string,
-  name: string,
+  avatar: string
+  name: string
   slug: string
 }
 

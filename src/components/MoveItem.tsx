@@ -1,5 +1,5 @@
 export interface MoveItemProps {
-  buttons: string,
+  buttons: string
   name: string
 }
 

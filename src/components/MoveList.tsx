@@ -1,7 +1,7 @@
 import MoveItem, { MoveItemProps } from "./MoveItem"
 
 interface MoveListProps {
-  moves: MoveItemProps[],
+  moves: MoveItemProps[]
   title: string
 }
 
