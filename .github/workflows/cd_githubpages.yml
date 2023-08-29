@@ -1,4 +1,4 @@
-name: Continuous Deployment workflow
+name: Continuous Deployment Github Pages workflow
 
 on:
   push:
