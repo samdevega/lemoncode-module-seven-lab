@@ -18,3 +18,7 @@ Abrir [http://localhost:5173](http://localhost:5173) con el navegador para ver e
 **Proyecto desplegado en Github Pages:**  
 
 [https://samdevega.github.io/lemoncode-module-seven-lab/](https://samdevega.github.io/lemoncode-module-seven-lab/)
+
+**Proyecto desplegado en Heroku:**
+
+[https://sdv-lemoncode-module-seven-lab-a6b99f48dfda.herokuapp.com/](https://sdv-lemoncode-module-seven-lab-a6b99f48dfda.herokuapp.com/)
