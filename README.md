@@ -1,12 +1,15 @@
 # Módulo 7 Cloud
+
 1. Desplegar en Github Pages de forma manual.
 2. Automatizar el despliegue en Github Pages usando Github Actions.
 
 ## Opcional
-* Desplegar la página en un dyno gratuito de Heroku, usando despliegue por git.
-* Desplegar automáticamente usando Docker en Heroku.
+
+- Desplegar la página en un dyno gratuito de Heroku, usando despliegue por git.
+- Desplegar automáticamente usando Docker en Heroku.
 
 ## Información del proyecto
+
 **Iniciar el servidor de desarrollo local:**
 
 ```bash
@@ -15,10 +18,6 @@ npm run dev
 
 Abrir [http://localhost:5173](http://localhost:5173) con el navegador para ver el resultado.
 
-**Proyecto desplegado en Github Pages:**  
+**Proyecto desplegado en Github Pages:**
 
 [https://samdevega.github.io/lemoncode-module-seven-lab/](https://samdevega.github.io/lemoncode-module-seven-lab/)
-
-**Proyecto desplegado en Heroku:**
-
-[https://sdv-lemoncode-module-seven-lab-a6b99f48dfda.herokuapp.com/](https://sdv-lemoncode-module-seven-lab-a6b99f48dfda.herokuapp.com/)
