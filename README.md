@@ -21,3 +21,15 @@ Abrir [http://localhost:5173](http://localhost:5173) con el navegador para ver e
 **Proyecto desplegado en Github Pages:**
 
 [https://samdevega.github.io/lemoncode-module-seven-lab/](https://samdevega.github.io/lemoncode-module-seven-lab/)
+
+## Ejecutando la aplicación en modo producción con Docker
+
+1. Crear la imagen de docker
+```
+docker build . -t mk-moves
+```
+2. Crear y ejecutar un contenedor
+```
+docker run --rm -it -p 127.0.0.1:80:8081 mk-moves
+```
+Abrir [http://localhost](http://localhost) con el navegador para ver el resultado.
